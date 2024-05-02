@@ -15,7 +15,8 @@
     "test:coverage": "jest --coverage",
     "prepare": "husky",
     "lint": "eslint .",
-    "lint:fix": "eslint --fix ."
+    "lint:fix": "eslint --fix .",
+    "commit":" git cz"
   },
   "devDependencies": {
     "@types/dotenv-safe": "^8.1.1",
