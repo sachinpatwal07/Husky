@@ -1,5 +1,2 @@
-npm test
-
-
 yarn lint:fix && yarn test
 exit 1
